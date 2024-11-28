@@ -1,0 +1,67 @@
+.main{
+    height: 500px;
+    width: 400px;
+    background-color: rgb(46, 46, 48);
+    border-radius: 10px;
+    border: 1px solid black;
+     margin:  0 auto;
+     box-shadow: 15px 20px 30px rgb(39, 38, 38);
+}
+h1 {
+    text-align: center;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 40px;
+    
+    
+}
+
+.dispaly input {
+    height: 120px;
+    width: 390px;
+    border-radius: 10px;
+    font-size: x-large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(134, 134, 192);
+    color: white;
+    outline: none;
+    margin-top: 5px;
+    box-shadow: 5px 10px 5px rgb(39, 38, 38);
+                
+}
+.btn_sec input {
+    height: 60px;
+    width: 85px;
+    border: 1px black solid;
+    border-radius: 10px;
+    margin: 6px;
+    font-size: x-large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(134, 134, 192);
+    color: white;
+    text-align: center;
+    transition: all linear 1s;
+    margin-top: 8px;
+    box-shadow: 3px 3px 10px rgb(130, 42, 106)
+
+
+}
+.btn_sec input:hover {
+    height: 60px;
+    width: 85px;
+    border: 1px black solid;
+    border-radius: 10px;
+    margin: 6px;
+    font-size: x-large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkcyan;
+    color: rgb(148, 43, 43);
+    text-align: center;
+    transform: scale(.999);
+
+
+}
